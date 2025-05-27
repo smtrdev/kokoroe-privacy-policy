@@ -1,66 +1,188 @@
-# kokoroe-privacy-policy
+## Kokoroe プライバシーポリシー
 
-**Privacy Policy**
+**最終更新日：2025年5月27日**
 
-Yutaro Shimamura built the kokoroe app as a Free app. This SERVICE is provided by Yutaro Shimamura at no cost and is intended for use as is.
+### 1. はじめに
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Kokoroe（以下「本アプリ」）をご利用いただき、ありがとうございます。本プライバシーポリシーは、本アプリにおいて、ユーザーの皆様の個人情報をどのように収集、利用、保護しているかについて説明いたします。
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+**開発者情報：**
+- 開発者：個人開発者
+- 連絡先：https://x.com/kokoroe_app
+- 所在地：日本
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at kokoroe unless otherwise defined in this Privacy Policy.
+### 2. 収集する情報
 
-**Information Collection and Use**
+#### 2.1 アカウント情報
+- **Google アカウント連携時**：メールアドレス、プロフィール情報
+- **Apple ID 連携時**：メールアドレス（ユーザーが選択した場合）
+- **メールアドレス登録時**：メールアドレス、設定したパスワード
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+#### 2.2 感情・メンタルヘルスデータ（要配慮個人情報）
+本アプリは日記・ジャーナリングアプリとして、以下の機密性の高い個人情報を取り扱います：
+- **感情記録**：感情の種類、感情スコア
+- **日記エントリー**：自由記述の日記内容
+- **気分の変化**：時系列での感情データ
+- **目標設定**：個人的な目標や振り返り
+- **睡眠・生活習慣**：睡眠時間等の健康関連データ
 
-The app does use third-party services that may collect information used to identify you.
+#### 2.3 コンテンツデータ
+- **アイテム管理**：タイトル、説明、タグ情報
+- **画像データ**：投稿、日記に添付された画像（最大3枚/エントリー、10MB制限）
+- **作成日時**：各エントリーのタイムスタンプ
 
-Link to the privacy policy of third-party service providers used by the app
+#### 2.4 技術的情報
+- **デバイス情報**：OS バージョン、デバイスタイプ
+- **アプリ利用状況**：機能使用頻度、エラーログ
+- **クラッシュレポート**：アプリの安定性向上のための技術情報
 
-* None.
+### 3. 情報の利用目的
 
-**Log Data**
+#### 3.1 サービス提供
+- ユーザーアカウントの管理・認証
+- 日記・アイテムデータの保存・同期
+- アプリ機能の提供・改善
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+#### 3.2 品質向上
+- アプリの安定性・パフォーマンス向上
+- 新機能の開発・最適化
+- ユーザーエクスペリエンスの向上
 
-**Cookies**
+#### 3.3 セキュリティ
+- 不正アクセスの検出・防止
+- アカウントの安全性確保
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+### 4. Firebase サービスの利用
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+本アプリは Google Firebase の以下のサービスを利用しています：
 
-**Service Providers**
+#### 4.1 利用中のサービス
+- **Firebase Authentication**：ユーザー認証・ログイン管理
+- **Cloud Firestore**：日記・アイテムデータの保存
+- **Firebase Storage**：画像ファイルの保存
+- **Firebase Analytics**：アプリ利用状況の分析
+- **Firebase Crashlytics**：エラー・クラッシュレポートの収集
+- **Firebase Remote Config**：アプリ設定・機能制御
 
-I may employ third-party companies and individuals due to the following reasons:
+#### 4.2 データ処理場所
+- **保存場所**：Google Cloud Platform（主に米国のデータセンター）
+- **国際データ転送**：日本国外（米国）でのデータ処理が行われます
+- **法的根拠**：Google は適切な保護措置（標準契約条項等）を講じています
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+#### 4.3 Google との関係
+- Google のプライバシーポリシーも適用されます：https://policies.google.com/privacy
+- Firebase の利用規約：https://firebase.google.com/terms
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+### 5. 音声・画像データの取り扱い
 
-**Security**
+#### 5.1 音声認識機能
+- **処理方式**：デバイス内（ローカル）でのみ処理
+- **データ送信**：音声データはサーバーに送信されません
+- **利用目的**：日記入力の支援のみ
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+#### 5.2 画像データ
+- **保存先**：Firebase Storage（暗号化されて保存）
+- **メタデータ**：位置情報等のメタデータは自動的に削除
+- **アクセス制限**：ユーザー本人のみアクセス可能
 
-**Links to Other Sites**
+### 6. 第三者への提供
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+#### 6.1 原則
+ユーザーの個人情報を第三者に販売、賃貸、または共有することはありません。
 
-**Children’s Privacy**
+#### 6.2 例外的な提供
+以下の場合にのみ、情報を提供する場合があります：
+- **法的要請**：裁判所命令、法執行機関からの正式な要請
+- **緊急事態**：生命に関わる緊急事態での安全確保
+- **事業譲渡**：事業譲渡時（事前通知とユーザー同意取得）
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+#### 6.3 Google（Firebase）との関係
+技術的にGoogle に情報が渡りますが、これは本サービス提供に必要な範囲のみです。
 
-**Changes to This Privacy Policy**
+### 7. データ保持・削除
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+#### 7.1 保持期間
+- **アクティブアカウント**：サービス利用期間中
+- **削除アカウント**：削除要求から30日以内に完全削除
+- **バックアップデータ**：30日以内に削除
 
-This policy is effective as of 2021-12-11
+#### 7.2 自動削除
+- **非アクティブアカウント**：2年間未使用の場合、順次削除
+- **一時データ**：キャッシュ、ログ等は定期的に削除
 
-**Contact Us**
+### 8. セキュリティ対策
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at https://twitter.com/smtrdev
+#### 8.1 技術的対策
+- **暗号化**：転送時・保存時の両方でデータを暗号化
+- **アクセス制御**：最小権限の原則に基づくアクセス管理
+- **定期監査**：セキュリティ体制の定期的な見直し
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+#### 8.2 Firebase のセキュリティ
+- Google のエンタープライズグレードセキュリティを活用
+- ISO 27001、SOC 2 Type II 等の認証を取得済み
+
+### 9. ユーザーの権利
+
+#### 9.1 アクセス権
+- **データの開示**：保存されている個人情報の確認
+- **データのダウンロード**：機械読み取り可能な形式での提供
+
+#### 9.2 訂正・削除権
+- **データの訂正**：不正確な情報の修正
+- **データの削除**：アカウント削除時の完全消去
+- **処理の停止**：特定の処理の停止要求
+
+#### 9.3 権利の行使方法
+上記の権利を行使される場合は、アプリ内設定または下記連絡先までご連絡ください。
+
+### 10. 未成年者の保護
+
+#### 10.1 年齢制限
+- **13歳未満**：本アプリの利用を禁止
+- **18歳未満**：保護者の同意が必要
+
+#### 10.2 確認方法
+年齢に関する虚偽の申告を発見した場合、該当アカウントを削除いたします。
+
+### 11. 国際的なプライバシー法への対応
+
+#### 11.1 GDPR（EU一般データ保護規則）
+EU居住者の方には、GDPR に基づく以下の権利があります：
+- データポータビリティ権
+- 処理に対する異議申し立て権
+- プロファイリングの拒否権
+
+#### 11.2 CCPA（カリフォルニア州消費者プライバシー法）
+カリフォルニア州居住者の方には、CCPA に基づく権利が適用されます。
+
+### 12. プライバシーポリシーの変更
+
+#### 12.1 変更手続き
+- **重要な変更**：30日前の事前通知
+- **軽微な変更**：アプリ内または当ページでの告知
+- **継続利用**：変更後の継続利用をもって同意とみなします
+
+#### 12.2 変更履歴
+変更内容と日付をアプリ内で確認できます。
+
+### 13. お問い合わせ・苦情申し立て
+
+**個人情報に関するお問い合わせ：**
+- X：x.com/kokoroe_app (DM)
+- Google Form：https://forms.gle/8T6Y7AenzKdrzdM1A
+
+### 14. 適用法令・管轄
+
+#### 14.1 準拠法
+本プライバシーポリシーは日本国法に準拠します。
+
+#### 14.2 管轄裁判所
+本ポリシーに関する紛争は、東京地方裁判所を第一審の専属管轄裁判所とします。
+
+### 15. 特記事項
+
+#### 15.1 感情データの特別な保護
+本アプリが取り扱う感情・メンタルヘルス関連データは、個人情報保護法上の「要配慮個人情報」に該当します。これらの情報については、特に厳格な管理体制を敷き、不正アクセスや漏洩の防止に最大限の注意を払って管理いたします。
+
+#### 15.2 オフライン機能
+本アプリはオフライン機能を提供しており、一部のデータは端末内に一時的に保存されます。これらのデータも本ポリシーの対象となります。
